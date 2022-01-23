@@ -1,3 +1,5 @@
-# Mini project 1
+# Lexicon Utbildning
 
-This time the task was to create an inventory register for a company with at least 3 predefined offices in different countries. These countries were optional to enter, and that we would use the country's currency when entering the purchase price. There were also some requirements regarding how the inventory should be presented to the user, products that have an estimated economic life approaching 3 months should be marked in red, equipment that falls within a period of 6 months should be marked in yellow. We would also present the purchase value in SEK if it was not in SEK from the beginning.
+A collection of exercises and tasks that we were commissioned to solve during the training for developers at Lexicon during our 12-week period.
+
+Change branches to take part in the different exercises we had to carry out. Note that I have chosen to make a little more advanced solutions than what was required of us. Has always had in mind to make the code flexible and reusable in other projects. If it had been real projects then I would not have done this extra work without asking the manager / project manager.
