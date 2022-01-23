@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Data.Common;
 
-namespace EfBloggy
+namespace EfBloggyImproved
 {
     public static class ExtensionMethods
     {
