@@ -1,4 +1,4 @@
-# LBloggy Demo
+# Bloggy Demo
 
 It was not a direct assignment to perform, but we would do it more ourselves or in a group. The goal was that we would gain some knowledge about databases resp. SQL. None of this was any direct news to me, more to teach me the slightly more specific SQL that applies to MS SQL server.
 
