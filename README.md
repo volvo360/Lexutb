@@ -1,5 +1,5 @@
-# Bloggy Demo
+# Lexicon Utbildning
 
-It was not a direct assignment to perform, but we would do it more ourselves or in a group. The goal was that we would gain some knowledge entity framework (EF). Our task was to make sure that it supports full CURD.
+A collection of exercises and tasks that we were commissioned to solve during the training for developers at Lexicon during our 12-week period.
 
-We got access to a console application to handle various blog posts with a default database. If you just read the instructions for the application, everything will go well… Have therefore added some code that checks if the database exists and if not, the user is prompted to run the Update-Database in the package manger console.
+Change branches to take part in the different exercises we had to carry out. Note that I have chosen to make a little more advanced solutions than what was required of us. Has always had in mind to make the code flexible and reusable in other projects. If it had been real projects then I would not have done this extra work without asking the manager / project manager.
